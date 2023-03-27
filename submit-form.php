@@ -3,6 +3,7 @@
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     // Get the form data
     $projectName = $_POST['project_name'];
+    //adjust for your own credentials
     $dbName = $_POST['db_name'];
     $dbHost = $_POST['db_host'];
     $dbUser = $_POST['db_user'];
