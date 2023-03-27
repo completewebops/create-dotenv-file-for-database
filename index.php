@@ -4,7 +4,7 @@
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta http-equiv="X-UA-Compatible" content="ie=edge">
-      <meta name="Description" content="Enter your description here" />
+      <meta name="Description" content=".env database file creator" />
       <link src="styles.css">
       <title>.env database file creator</title>
 </head>
@@ -34,4 +34,3 @@
       </div>
 </body>
 </html>
-<style>
